@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+https://ewanhohou.github.io/vue-todolist-practice/
+
 ## Build Setup
 
 ``` bash
